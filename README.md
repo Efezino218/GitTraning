@@ -1,2 +1,2 @@
 # GitTraning
-am currently learning git
+am currently learning git & github
